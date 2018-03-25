@@ -5,8 +5,8 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Class counts the same elements in the
- * list and returns the map of results
+ * Class for counting the same elements
+ * in the list
  *
  * @author Eugene Kushpii
  * @version 1.0
